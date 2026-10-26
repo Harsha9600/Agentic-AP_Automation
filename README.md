@@ -2,6 +2,8 @@
 
 This project extracts AP invoice details from PDF or image uploads using an agentic workflow and vision models. Grok (xAI) is the default provider; OCI Generative AI remains available. It stores one final local JSON dump per invoice.
 
+For the complete architecture, file map, configuration reference, output schema, troubleshooting, and maintenance notes, read the [Project Guide](PROJECT_GUIDE.md).
+
 ## Workflow
 
 1. `intake_agent` accepts the uploaded PDF/image.
