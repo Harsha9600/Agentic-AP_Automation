@@ -1,0 +1,11 @@
+streamlit>=1.48.0
+python-dotenv>=1.0.1
+pydantic>=2.8.0
+langgraph>=0.2.60
+PyMuPDF>=1.26.3
+pypdf>=6.0.0
+Pillow>=11.3.0
+oci>=2.174.0
+zxing-cpp>=3.0.0
+pytesseract>=0.3.13
+pytest>=8.3.0

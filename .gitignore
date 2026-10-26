@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.oci/
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+.venv/
+__pycache__/
+.pytest_cache/
+.work/
+inputs/
+outputs/
+*.pyc
